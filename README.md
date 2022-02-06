@@ -1,6 +1,6 @@
 # 3D Plane Fitting In Point Cloud Data Using RANSAC.
 
-This is a basic example of plane fitting in point cloud data using ransac.
+This is a basic example of plane fitting in point cloud data using (RAN)dom (SA)mple (C)onsensus.
 
 ## Setup
 
@@ -29,7 +29,7 @@ conda install -c conda-forge python-kaleido plotly numpy matplotlib
 
 # Usage
 
-TO test it on custom data, change the source code to represent the path of your data.
+To test it on custom data, change the source code to represent the path of your data.
 
 Run `python3 ransac.py` to obtain a plot of the data along with the best fit plane.
 
